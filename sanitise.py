@@ -41,7 +41,7 @@ WARNING_RANGES = {
     "cjk_radicals": r"\u2e80-\u2e99\u2e9b-\u2ef3",  # Supplements Kangxi
     "kangxi_radicals": r"\u2f00-\u2fd5",
     "iteration_marks": r"\u3005\u309d\u309e\u30fd\u30fe",
-    "katakana_extentions": r"\u31f0-\u31ff",  # Ainu-only small katakana
+    "katakana_extensions": r"\u31f0-\u31ff",  # Ainu-only small katakana
     "jp_symbols": r"\u3220-\u3243\u3280-\u337f",
 }
 # Generally speaking, only dounojiten iteration mark is valid
